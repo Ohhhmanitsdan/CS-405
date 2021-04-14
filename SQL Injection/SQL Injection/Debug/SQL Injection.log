@@ -1,0 +1,4 @@
+﻿  SQLInjection.cpp
+C:\Users\Daniel\Downloads\CS 405 M2 SQLInjection code files\CS 405 M2 SQLInjection code files\SQLInjection.cpp(90,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Daniel\Downloads\CS 405 M2 SQLInjection code files\CS 405 M2 SQLInjection code files\SQLInjection.cpp(185,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SQL Injection.vcxproj -> C:\Users\Daniel\source\repos\SQL Injection\Debug\SQL Injection.exe
