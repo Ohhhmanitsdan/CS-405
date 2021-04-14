@@ -4,4 +4,4 @@ Here you can find a collection of work that I was able to complete to help showc
 
 ### Project Files <br><br>
 
-[You can access my files here.](/https://github.com/ddegouveia/CS-405)
+[You can access my files here.](https://github.com/ddegouveia/CS-405)
